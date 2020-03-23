@@ -1,0 +1,7 @@
+#Ignore pyc files
+*.pyc
+
+#Ignore user specific files
+*placedBets.json
+*picks.json
+*praw.ini
