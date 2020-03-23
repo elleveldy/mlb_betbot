@@ -1,4 +1,4 @@
-# Betbot
+# MLB Betbot
 A bot in progress that will lose your money for free (actually made profit during runtime, but n < 100)
 
 
